@@ -1,0 +1,13 @@
+{
+    "General":{
+        "process":"ptc_win_gecko_server.exe,pro_comm_msg.exe,xtop.exe,parametric.exe,creoagent.exe,nmsd.exe"
+    },
+    "Position":{
+        "x":629,
+        "y":370
+    },
+    "Size":{
+        "height":300,
+        "width":400
+    }
+}
