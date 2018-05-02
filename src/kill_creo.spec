@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['C:\\Data\\Development\\PycharmProjects\\KillCreo\\src\\kill_creo.py'],
-             pathex=['C:\\Data\\Development\\PycharmProjects\\KillCreo\\src'],
+             pathex=['c:\\ProgLib\\Devel\\Python35-64\\Lib\\site-packages\\PyQt5\\Qt\\bin','C:\\Data\\Development\\PycharmProjects\\KillCreo\\src'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -25,4 +25,4 @@ exe = EXE(pyz,
           debug=False,
           strip=False,
           upx=True,
-          console=True )
+          console=False )

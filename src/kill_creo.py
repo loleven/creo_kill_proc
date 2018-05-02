@@ -45,7 +45,7 @@ class OptFile:
         ini_items['Position'] = ini_position
 
         items_general = {
-            'process': 'ptc_win_gecko_server.exe,pro_comm_msg.exe,xtop.exe,parametric.exe,creoagent.exe,nmsd.exe'}
+            'process': 'ptc_win_gecko_server.exe,pro_comm_msg.exe,xtop.exe,parametric.exe,nmsd.exe,creoagent.exe'}
         ini_items['General'] = items_general
 
         return ini_items
